@@ -1,0 +1,56 @@
+.form-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f5f5f5; /* Fondo gris claro */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-container label {
+    font-weight: bold;
+  }
+  
+  .form-container input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .form-container button {
+    background: #8b00ff; /* Fondo violeta */
+    color: #ffffff; /* Texto blanco */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background: #6a00cc; /* Cambio de color en el botón al pasar el cursor */
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  .card-container {
+    background: #8b00ff; /* Fondo violeta */
+    color: #ffffff; /* Texto blanco */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .card-container h2 {
+    font-size: 24px;
+  }
+
+  .card-container p {
+    font-size: 18px;
+  }
