@@ -1,6 +1,6 @@
 .card-container {
-    background: #8b00ff; /* Fondo violeta */
-    color: #ffffff; /* Texto blanco */
+    background: #8b00ff;
+    color: #ffffff;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);

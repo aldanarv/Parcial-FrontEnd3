@@ -2,7 +2,7 @@
     width: 300px;
     margin: 0 auto;
     padding: 20px;
-    background: #f5f5f5; /* Fondo gris claro */
+    background: #f5f5f5;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -20,8 +20,8 @@
   }
 
   .form-container button {
-    background: #8b00ff; /* Fondo violeta */
-    color: #ffffff; /* Texto blanco */
+    background: #8b00ff;
+    color: #ffffff;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -29,7 +29,7 @@
   }
   
   .form-container button:hover {
-    background: #6a00cc; /* Cambio de color en el botón al pasar el cursor */
+    background: #6a00cc;
   }
   
   .error-message {
@@ -38,8 +38,8 @@
   }
   
   .card-container {
-    background: #8b00ff; /* Fondo violeta */
-    color: #ffffff; /* Texto blanco */
+    background: #8b00ff;
+    color: #ffffff;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
